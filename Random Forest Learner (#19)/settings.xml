@@ -69,6 +69,10 @@
                 <entry key="used_variable" type="xstring" value="Deph"/>
                 <entry key="exposed_variable" type="xstring" isnull="true" value=""/>
             </config>
+            <config key="minNodeSize">
+                <entry key="used_variable" type="xstring" value="minNodeSize"/>
+                <entry key="exposed_variable" type="xstring" isnull="true" value=""/>
+            </config>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
